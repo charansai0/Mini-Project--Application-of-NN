@@ -99,3 +99,4 @@ plotScatterMatrix(df2, 20, 10)
 ## Advantage :
 Rainfall prediction is important as heavy rainfall can lead to many disasters. The prediction helps people to take preventive measures and moreover the prediction should be accurate. There are two types of prediction short term rainfall prediction and long term rainfall.
 ## Result:
+Thus Implementation of Rainfall Prediction was executed successfully.
